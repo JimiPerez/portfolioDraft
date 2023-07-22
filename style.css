@@ -1,0 +1,37 @@
+html {
+  background-color: black;
+  height: 100%;
+  width: 100%;
+}
+main, h1, footer{
+  font-family: "times new roman";
+  color: white;
+  text-align: center;
+}
+h1 {
+  font-size: 50px;
+  background-color: black;
+  padding: 25px;
+}
+main{
+  background-color: gray;
+}
+h2{
+  font-size: 30px;
+}
+p{
+  font-size: 20px;
+  padding: 0px, 100px;
+}
+footer{
+  background-color: black;
+}
+a{
+  color: green;
+}
+a:active {
+    color: red;
+}
+ol, ul {
+  font-size: 18px;
+}
