@@ -22,6 +22,7 @@ h2{
 p{
   font-size: 20px;
   padding: 0px, 100px;
+  margin-bottom: 50px;
 }
 footer{
   background-color: black;
@@ -34,7 +35,4 @@ a:active {
 }
 ol, ul {
   font-size: 18px;
-}
-img{
-  margin: 15px;
 }
